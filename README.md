@@ -16,7 +16,7 @@ Step 1: Set up develop environment
 
     * Install jdk1.8 on your machine.
     
-    * Set up java IDEs like Eclipse or Spring Tool Suite.
+    * Set up any of the java IDEs like Eclipse, Spring Tool Suite or IntelliJ IDEA.
         
        
  Step 2: Cloning project and configuring Dependencies
