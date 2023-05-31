@@ -27,7 +27,11 @@ Step 1: Set up develop environment
     
     * Configure Lombok.
     
-    * Ensure that Redis is up and running.
+    * Update pom.xml to manage dependencies.
+     
+    * Configure properties in application.properties file. 
+    
+    * Ensure that Redis server is up and running.
 
 
 
