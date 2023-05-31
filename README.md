@@ -35,7 +35,9 @@ Step 1: Set up develop environment
 
 Step 3 : Run and Test the application
     
-    * Run the application from Spring Tool as SpringBoot Application
+    * Run the application from IDE as SpringBoot Application
+    
+    * Pnce the application is up and running, swagger can be accessed from browser in the link :   
 
 # For more support
 Visit our website: [**Click here**]()
