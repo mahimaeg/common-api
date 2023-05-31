@@ -17,11 +17,17 @@ Step 1: Set up develop environment
     * Install jdk1.8 on your machine.
     
     * Set up java IDEs like Eclipse or Spring Tool Suite.
+        
+       
+ Step 2: Cloning project and configuring Dependencies
+  
+    * Clone project to your local machine.
     
-    * Configure lombok.
+    * Open project in IDE
+    
+    * Configure Lombok.
     
     * Ensure that Redis is up and running.
-    * 
 
 
 
