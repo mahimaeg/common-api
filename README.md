@@ -13,9 +13,13 @@
 
 # Building common-api
 Step 1: Set up develop environment
+
     * Install jdk1.8 on your machine.
+    
     * Set up java IDEs like Eclipse or Spring Tool Suite.
+    
     * Configure lombok.
+    
     * Ensure that Redis is up and running.
     * 
 
