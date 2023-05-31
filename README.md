@@ -33,7 +33,9 @@ Step 1: Set up develop environment
     
     * Ensure that Redis server is up and running.
 
-
+Step 3 : Run and Test the application
+    
+    * Run the application from Spring Tool as SpringBoot Application
 
 # For more support
 Visit our website: [**Click here**]()
