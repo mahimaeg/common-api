@@ -39,7 +39,8 @@ Step 3 : Run and Test the application
     
     * Once the application is up and running, API testing can be done by accessing swagger through browser(Link:http://localhost:8080/swagger-ui.html#)
 
-# For more support
-Visit our website: [**Click here**]()
+# For Support and contributions
 
 Please join our community: [**PSMRI**](https://github.com/PSMRI)
+
+Visit our website: [**Click here**]()
