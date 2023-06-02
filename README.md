@@ -19,6 +19,7 @@ Common API is a microservice whch acts as a gateway for AMRIT. There are many AP
 * Language API
 * Notification service
 * CRM Reports
+* Appointment Scheduling
 
 ## Building From Source
 This microservice is built on Java, Spring boot framework and MySQL DB.
