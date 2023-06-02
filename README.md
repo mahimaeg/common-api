@@ -15,7 +15,8 @@ Common API is a microservice whch acts as a gateway for AMRIT. There are many AP
 * KM file management
 * Fetching data from POCT devices
 * Report APIs
-* language APis
+* language API
+* Notification service
 
 ## Building From Source
 This microservice is built on Java, Spring boot framework and MySQL DB.
