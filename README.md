@@ -9,13 +9,13 @@ Common API is a microservice whch acts as a gateway for AMRIT.There are 15 APIs 
 * 
 * Email Service
 * SMS service
-* Door to door
+
 * Feedback service
-* Beneficiary Medical History
-* Honeywell Service
-* Finding Institutions
+* Beneficiary Medical History maintenance
+* 
+* Finding Institutions()master service
 * KM file management
-* Getting data from POCT devices
+* Getting data from POCT
 
 ### Patient Visit Category
 * Ante natal care (ANC)
