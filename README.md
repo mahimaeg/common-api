@@ -3,13 +3,13 @@
 Common API is one of the comprehensive applications of AMRIT designed to capture details of 7 Service packages as per guidelines which should be available at Health and Wellness centre.
 
 ### Primary Features
-* Provide medical advice and services to beneficiaries
-* Out patient service 
-* Video consultation with specialists doctors
-* Drug dispense and laboratory facility available at centre
-* More than 20 lab tests can be performed using IOT devices and data flows directly to AMRIT
-* Compliance with all 3 milestones of ABDM 
-* SnomedCT, LOINC, ICD -10, FHIR compatible
+* Beneficiary Registration
+* Call handling
+* Create Order
+* Email Service
+* Door to door
+* Feedback service
+* 
 
 ### Patient Visit Category
 * Ante natal care (ANC)
