@@ -9,13 +9,11 @@ Common API is a microservice whch acts as a gateway for AMRIT.There are many API
 * Covid Vaccine status
 * Email Service
 * SMS service
-
 * Feedback service
-* Beneficiary Medical History maintenance
-* 
+* Beneficiary Medical History maintenance 
 * Finding Institutions()master service
 * KM file management
-* Getting data from POCT
+* Getting data from POCT devices
 
 ### Patient Visit Category
 * Ante natal care (ANC)
