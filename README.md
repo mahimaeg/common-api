@@ -15,7 +15,7 @@ Common API is a microservice whch acts as a gateway for AMRIT. There are many AP
 * KM file management
 * Fetching data from POCT devices
 * Report APIs
-* language API
+* Language API
 * Notification service
 
 ## Building From Source
@@ -88,6 +88,7 @@ This service has been tested on Wildfly as the application server.
 * Openkm
 * Door to door App
 * Swasa
+* Lonic
 
 ## Usage
 All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.
