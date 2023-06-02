@@ -9,7 +9,7 @@ Common API is one of the comprehensive applications of AMRIT designed to capture
 * Email Service
 * Door to door
 * Feedback service
-* 
+* Beneficiary Medical History
 
 ### Patient Visit Category
 * Ante natal care (ANC)
