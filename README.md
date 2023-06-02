@@ -10,6 +10,10 @@ Common API is one of the comprehensive applications of AMRIT designed to capture
 * Door to door
 * Feedback service
 * Beneficiary Medical History
+* Honeywell Service
+* Finding Institutions
+* KM file management
+* Getting data from POCT devices
 
 ### Patient Visit Category
 * Ante natal care (ANC)
