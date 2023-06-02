@@ -52,6 +52,7 @@ Common API is a microservice whch acts as a gateway for AMRIT.There are many API
 * Finding Institutions
 * KM file management
 * Getting data from POCT devices
+* CRM Reports
 
 ### Patient Visit Category
 * Ante natal care (ANC)
