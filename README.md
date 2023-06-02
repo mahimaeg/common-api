@@ -87,8 +87,8 @@ This service has been tested on Wildfly as the application server.
 * Swasa
 
 ## Usage
-All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.s
+All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.
 
 
 ## Usage
-All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.s
+All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.
