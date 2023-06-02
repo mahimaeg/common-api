@@ -4,6 +4,7 @@
 Common API is a microservice whch acts as a gateway for AMRIT. There are many APIs that are exposed by Common-API. It contains APIs of common integrators like c-Zentrix,Everwell,Openkm and some master APIs like location master,alerts,notification and location messages.
 ### Primary Features
 * Beneficiary Registration
+* User authorisation and authentication
 * Call handling - 107,1097-mcts
 * Covid Vaccine status
 * Email Service
