@@ -89,6 +89,7 @@ This service has been tested on Wildfly as the application server.
 * Door to door App
 * Swasa
 * Lonic
+* SnomedCT  
 
 ## Usage
 All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.
