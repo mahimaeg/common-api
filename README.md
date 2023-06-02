@@ -1,5 +1,5 @@
 # Common API Module 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  ![branch parameter](https://github.com/PSMRI/Common-API/actions/workflows/sast-and-package.yml/badge.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 
 Common API is a microservice whch acts as a gateway for AMRIT.There are many APIs that are exposed by Common-API.
 
@@ -14,6 +14,7 @@ Common API is a microservice whch acts as a gateway for AMRIT.There are many API
 * Finding Institutions()master service
 * KM file management
 * Getting data from POCT devices
+* Report APIs
 
 ### Patient Visit Category
 * Ante natal care (ANC)
@@ -44,7 +45,7 @@ This service has been tested on Wildfly as the application server.
 * MySQL Database
 
 ## Integrations
-* Video Consultation
+* 
 
 ## Usage
 All features have been exposed as REST endpoints. Refer to the SWAGGER API specification for details.s
