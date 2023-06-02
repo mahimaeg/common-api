@@ -43,7 +43,7 @@ This service has been tested on Wildfly as the application server.
 * Everwell
 * Openkm
 * Door to door App
-* Swasa
+* Swaasa
 * Lonic
 * SnomedCT  
 
