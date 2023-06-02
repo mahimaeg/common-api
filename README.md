@@ -5,7 +5,7 @@ Common API is a microservice whch acts as a gateway for AMRIT. There are many AP
 ### Primary Features
 * Beneficiary Registration
 * User authorisation and authentication
-* Call handling - 107,1097-mcts
+* Call handling (107,1097 & mcts)
 * Covid Vaccine status
 * Email Service
 * SMS service
